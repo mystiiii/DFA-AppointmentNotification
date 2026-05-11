@@ -5,7 +5,6 @@ Automated monitor for [passport.gov.ph](https://passport.gov.ph/appointment) tha
 ## Features
 
 - **Cloudflare Bypass** — Uses `undetected-chromedriver` to avoid anti-bot blocks
-- **Multi-Site Monitoring** — Checks 9 DFA sites across NCR and CALABARZON
 - **Smart Calendar Parsing** — Detects non-disabled/non-full dates in the target range
 - **Discord Alerts** — Rich embed notifications with site name, dates, and booking link
 - **Auto-Retry** — Recovers from errors and continues monitoring in a loop
